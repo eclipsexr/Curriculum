@@ -5,12 +5,16 @@ body{
 	width: 700px;
 	margin: 50px 350px;
 }
+
+div  {id="cuerpo";
+	background: #8A0808;
+}
 h1{
 	position: relative;
 	top: 10px;
 	left: 250px;
 	width: 250px;
-	background: #FE2E2E;
+	background: #8A0808;
 
 
 }
@@ -19,12 +23,10 @@ h2,p {
 	position: relative;
 	left: 50px;
 	width: 50%;
-	background: #FE2E2E;
+	background: #8A0808;
 	display: inline-block;
 }
-div{background: blue;
-	width: 50%;
-}
+
 img{
 	display: block;
 	margin: auto;
