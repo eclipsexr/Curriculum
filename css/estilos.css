@@ -1,0 +1,35 @@
+body{
+	background: url(../imagenes/logo.jpg);
+	color: #fff;
+	border-style:double; 
+	width: 700px;
+	margin: 50px 350px;
+}
+h1{
+	position: relative;
+	top: 10px;
+	left: 250px;
+	width: 250px;
+	background: #FE2E2E;
+
+
+}
+
+h2,p {
+	position: relative;
+	left: 50px;
+	width: 50%;
+	background: #FE2E2E;
+	display: inline-block;
+}
+div{background: blue;
+	width: 50%;
+}
+img{
+	display: block;
+	margin: auto;
+	position: absolute;
+	left: 60%;
+	height: 20%;
+	top: 20%;
+}
